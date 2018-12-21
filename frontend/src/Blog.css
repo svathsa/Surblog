@@ -1,0 +1,28 @@
+.bg{
+  background-color: khaki;
+}
+
+.btn-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.compose-btn{
+    background-color: #191919;
+    border: none;
+    font-size: 5.0vw;
+    margin: 20px;
+    color: #ffffff;
+    border-radius: 10px;
+    font-family: fantasy;
+}
+
+.compose-btn:hover{
+    cursor: pointer;
+    color: #eeeeee;
+}
+
+.compose-btn:focus{
+    outline: 0 !important;
+}

@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Staatliches');
+
+.intro-line{
+    font-family: 'Staatliches', cursive;
+    font-size: 10vw;
+    margin-top: 3vh;
+}
